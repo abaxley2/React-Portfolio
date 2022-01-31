@@ -19,7 +19,7 @@ class App extends Component {
           <Header title="Austin C. Baxley" scroll>
             <Navigation>
               <Link to="/">Home</Link>
-              <Link to="/aboutme">About Me</Link>
+              {/* <Link to="/aboutme">About Me</Link> */}
               <Link to="/projects">Projects</Link>
               {/* <Link to="/resume">Resume</Link> */}
             </Navigation>

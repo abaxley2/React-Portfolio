@@ -22,9 +22,9 @@ class About extends Component {
             Web Developer and recent graduate from the Full-Stack Coding
             Bootcamp at the Georgia Institute of Technology.
           </CardText>
-          <CardActions border>
+          {/* <CardActions border>
             <Button colored>GitHub</Button>
-          </CardActions>
+          </CardActions> */}
           <CardMenu style={{ color: "#fff" }}></CardMenu>
         </Card>
       </div>
