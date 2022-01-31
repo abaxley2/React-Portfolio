@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import { Card } from "react-mdl";
 import { CardTitle } from "react-mdl";
 import { CardText } from "react-mdl";
-import { CardActions } from "react-mdl";
-import { Button } from "react-mdl";
 import { CardMenu } from "react-mdl";
 
 class About extends Component {
@@ -22,9 +20,6 @@ class About extends Component {
             Web Developer and recent graduate from the Full-Stack Coding
             Bootcamp at the Georgia Institute of Technology.
           </CardText>
-          {/* <CardActions border>
-            <Button colored>GitHub</Button>
-          </CardActions> */}
           <CardMenu style={{ color: "#fff" }}></CardMenu>
         </Card>
       </div>
