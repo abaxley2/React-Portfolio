@@ -13,7 +13,7 @@ class App extends Component {
       <div className="demo-big-content">
         <Layout
           style={{
-            background: "url(./Assets/atl_night.jpg) center / cover",
+            background: "url(./Assets/atl_night.webp) center / cover",
           }}
         >
           <Header title="Austin C. Baxley" scroll>
