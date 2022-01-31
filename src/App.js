@@ -21,7 +21,7 @@ class App extends Component {
               <Link to="/">Home</Link>
               <Link to="/aboutme">About Me</Link>
               <Link to="/projects">Projects</Link>
-              <Link to="/resume">Resume</Link>
+              {/* <Link to="/resume">Resume</Link> */}
             </Navigation>
           </Header>
           <Content>
@@ -31,6 +31,14 @@ class App extends Component {
           <Footer size="mini">
             <FooterSection type="left">
               <FooterLinkList>
+                <a
+                  href="https://drive.google.com/file/d/1YP6u4R03fg9D7WgGP3RE64zUo-5xHjER/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  download
+                >
+                  Resume
+                </a>
                 <a
                   href="https://github.com/abaxley2"
                   target="_blank"

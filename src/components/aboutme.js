@@ -19,8 +19,8 @@ class About extends Component {
             }}
           ></CardTitle>
           <CardText>
-            Full-Stack Web Developer Currently Enrolled in a coding boot camp at
-            the Georgia Institute of Technology.
+            Web Developer and recent graduate from the Full-Stack Coding
+            Bootcamp at the Georgia Institute of Technology.
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
